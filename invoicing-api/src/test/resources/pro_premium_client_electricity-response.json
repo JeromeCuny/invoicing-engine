@@ -1,0 +1,9 @@
+{
+  "marketDate": "2024-01-01",
+  "price": {
+    "currency": "EUR",
+    "value": 6820.0
+  },
+  "dailyRate": 2000.0,
+  "totalDays": 31
+}

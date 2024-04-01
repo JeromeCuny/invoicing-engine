@@ -1,0 +1,12 @@
+{
+  "marketDate": "2024-01-01",
+  "client": {
+    "type": "COMPANY",
+    "reference": "EKW123456789",
+    "siret": "72888271",
+    "legalName": "PLC",
+    "revenue": 1100000.0
+  },
+  "dailyRate": 100.0,
+  "energyType": "GAZ"
+}

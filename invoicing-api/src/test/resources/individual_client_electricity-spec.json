@@ -1,0 +1,12 @@
+{
+  "marketDate": "2024-01-01",
+  "client": {
+    "type": "INDIVIDUAL",
+    "reference": "EKW123456789",
+    "civility": "MR",
+    "firstName": "Jerome",
+    "lastName": "cuny"
+  },
+  "dailyRate": 12.0,
+  "energyType": "ELECTRICITY"
+}

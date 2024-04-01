@@ -1,0 +1,12 @@
+{
+  "marketDate": "2024-01-01",
+  "client": {
+    "type": "COMPANY",
+    "reference": "EKW123456789",
+    "siret": "72888271",
+    "legalName": "SP",
+    "revenue": 30000.0
+  },
+  "dailyRate": 400.0,
+  "energyType": "ELECTRICITY"
+}
